@@ -21,3 +21,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 4
 
 [Hidden Search Widget](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%204%20-%20Hidden%20Search%20Widget)
+
+### Day 5
+
+[Hidden Search Widget](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%205%20-%Blurry%Loading)
