@@ -24,4 +24,4 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 
 ### Day 5
 
-[Hidden Search Widget](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%205%20-%Blurry%Loading)
+[Blurry Loading](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%205%20-%20Blurry%20Loading)
