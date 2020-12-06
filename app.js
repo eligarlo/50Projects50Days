@@ -1,17 +1,67 @@
 const container = document.querySelector('.container')
 
 const projectLinks = [
-  { url: 'Day-1-expanding-cards', description: 'Day 1️⃣ - Expanding Cards' },
-  { url: 'Day-2-progress-steps', description: 'Day 2️⃣ - Progress Steps' },
-  { url: 'Day-3-rotating-navigation', description: 'Day 3️⃣ - Rotating Navigation' },
-  { url: 'Day-4-hidden-search-widget', description: 'Day 4️⃣ - Hidden Search Widget' },
-  { url: 'Day-5-blurry-loading', description: 'Day 5️⃣ - Blurry Loading' },
+  {
+    liveDemo: 'Day-1-expanding-cards',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-1-expanding-cards',
+    title: 'Day 1️',
+    description: 'Expanding Cards',
+    imgSrc: '/assets/Day-1-screenshot.jpg',
+  },
+  {
+    liveDemo: 'Day-2-progress-steps',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-2-progress-steps',
+    title: 'Day 2️',
+    description: 'Progress Steps',
+    imgSrc: '/assets/Day-2-screenshot.jpg',
+  },
+  {
+    liveDemo: 'Day-3-rotating-navigation',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-3-rotating-navigation',
+    title: 'Day 3️',
+    description: 'Rotating Navigation',
+    imgSrc: '/assets/Day-3-screenshot.jpg',
+  },
+  {
+    liveDemo: 'Day-4-hidden-search-widget',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-4-hidden-search-widget',
+    title: 'Day 4️',
+    description: 'Hidden Search Widget',
+    imgSrc: '/assets/Day-4-screenshot.jpg',
+  },
+  {
+    liveDemo: 'Day-5-blurry-loading',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-5-blurry-loading',
+    title: 'Day 5️',
+    description: 'Blurry Loading',
+    imgSrc: '/assets/Day-5-screenshot.jpg',
+  },
 ]
 
-projectLinks.forEach((projectLink) => {
-  container.innerHTML += generateAnchorTag(projectLink.url, projectLink.description)
+projectLinks.forEach((projectLink, i) => {
+  container.innerHTML += generateAnchorTag(
+    projectLink.liveDemo,
+    projectLink.repoUrl,
+    projectLink.title,
+    projectLink.description,
+    projectLink.imgSrc
+  )
 })
 
-function generateAnchorTag(url, description) {
-  return `<a href="${url}">${description}</a>`
+function generateAnchorTag(demoUrl, sourceUrl, title, description, imgSrc) {
+  return `<div class="card">
+            <div class="bg-image" style="
+            background: url('${imgSrc}'); background-size: cover;"></div>
+            <div class="content">
+              <h2 class="title">${title}</h2>
+              <p class="copy">
+                ${description}
+              </p>
+              <a class="btn" href="${demoUrl}">Live Demo</a>
+              <a class="btn" target="_blank" href="${sourceUrl}">
+                Source Code
+                <i class="fas fa-external-link-alt"></i>
+              </a>
+            </div>
+          </div>`
 }
