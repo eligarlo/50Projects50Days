@@ -8,20 +8,24 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 
 ### Day 1
 
-[Expanding Cards](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%201%20-%20Expanding%20Cards).
+[Expanding Cards](https://github.com/eligarlo/50Projects50Days/tree/master/Day-1-expanding-cards).
 
 ### Day 2
 
-[Progress Steps](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%202%20-%20Progress%20Steps).
+[Progress Steps](https://github.com/eligarlo/50Projects50Days/tree/master/Day-2-progress-steps).
 
 ### Day 3
 
-[Rotating Navigation](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%203%20-%Rotating%Navigation)
+[Rotating Navigation](https://github.com/eligarlo/50Projects50Days/tree/master/Day-3-rotating-navigation).
 
 ### Day 4
 
-[Hidden Search Widget](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%204%20-%20Hidden%20Search%20Widget)
+[Hidden Search Widget](https://github.com/eligarlo/50Projects50Days/tree/master/Day-4-hidden-search-widget).
 
 ### Day 5
 
-[Blurry Loading](https://github.com/eligarlo/50Projects50Days/tree/master/public/Day%205%20-%20Blurry%20Loading)
+[Blurry Loading](https://github.com/eligarlo/50Projects50Days/tree/master/Day-5-blurry-loading).
+
+### Day 6
+
+[Scroll Animation](https://github.com/eligarlo/50Projects50Days/tree/master/Day-6-scroll-animation).
