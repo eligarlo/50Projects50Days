@@ -36,6 +36,13 @@ const projectLinks = [
     description: 'Blurry Loading',
     imgSrc: '/assets/Day-5-screenshot.jpg',
   },
+  {
+    liveDemo: 'Day-6-scroll-animation',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-6-scroll-animation',
+    title: 'Day 6',
+    description: 'Scroll Animation',
+    imgSrc: '/assets/Day-6-screenshot.jpg',
+  },
 ]
 
 projectLinks.forEach((projectLink, i) => {
