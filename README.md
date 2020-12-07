@@ -29,3 +29,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 6
 
 [Scroll Animation](https://github.com/eligarlo/50Projects50Days/tree/master/Day-6-scroll-animation).
+
+### Day 6
+
+[Split Landing Page](https://github.com/eligarlo/50Projects50Days/tree/master/Day-7-split-landing-page).

@@ -43,6 +43,13 @@ const projectLinks = [
     description: 'Scroll Animation',
     imgSrc: '/assets/Day-6-screenshot.jpg',
   },
+  {
+    liveDemo: 'Day-7-split-landing-page',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-7-split-landing-page',
+    title: 'Day 7',
+    description: 'Split Landing Page',
+    imgSrc: '/assets/Day-7-screenshot.jpg',
+  },
 ]
 
 projectLinks.forEach((projectLink, i) => {
