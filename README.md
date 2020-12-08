@@ -30,6 +30,10 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 
 [Scroll Animation](https://github.com/eligarlo/50Projects50Days/tree/master/Day-6-scroll-animation).
 
-### Day 6
+### Day 7
 
 [Split Landing Page](https://github.com/eligarlo/50Projects50Days/tree/master/Day-7-split-landing-page).
+
+### Day 8
+
+[Form Input Wave](https://github.com/eligarlo/50Projects50Days/tree/master/Day-8-form-input-wave).

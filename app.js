@@ -50,6 +50,13 @@ const projectLinks = [
     description: 'Split Landing Page',
     imgSrc: '/assets/Day-7-screenshot.jpg',
   },
+  {
+    liveDemo: 'Day-8-form-input-wave',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-8-form-input-wave',
+    title: 'Day 8',
+    description: 'Form Input Wave',
+    imgSrc: '/assets/Day-8-screenshot.jpg',
+  },
 ]
 
 projectLinks.forEach((projectLink, i) => {
