@@ -37,3 +37,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 8
 
 [Form Input Wave](https://github.com/eligarlo/50Projects50Days/tree/master/Day-8-form-input-wave).
+
+### Day 9
+
+[Sound Board](https://github.com/eligarlo/50Projects50Days/tree/master/Day-9-sound-board).

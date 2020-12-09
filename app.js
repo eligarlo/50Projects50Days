@@ -57,6 +57,13 @@ const projectLinks = [
     description: 'Form Input Wave',
     imgSrc: '/assets/Day-8-screenshot.jpg',
   },
+  {
+    liveDemo: 'Day-9-sound-board',
+    repoUrl: 'https://github.com/eligarlo/50Projects50Days/tree/master/Day-9-sound-board',
+    title: 'Day 9',
+    description: 'Sound Board',
+    imgSrc: '/assets/Day-9-screenshot.jpg',
+  },
 ]
 
 projectLinks.forEach((projectLink, i) => {
