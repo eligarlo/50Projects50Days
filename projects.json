@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "liveDemo": "Day-1-expanding-cards",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-1-expanding-cards",
+      "title": "Day 1️",
+      "description": "Expanding Cards",
+      "imgSrc": "/assets/Day-1-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-2-progress-steps",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-2-progress-steps",
+      "title": "Day 2️",
+      "description": "Progress Steps",
+      "imgSrc": "/assets/Day-2-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-3-rotating-navigation",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-3-rotating-navigation",
+      "title": "Day 3️",
+      "description": "Rotating Navigation",
+      "imgSrc": "/assets/Day-3-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-4-hidden-search-widget",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-4-hidden-search-widget",
+      "title": "Day 4️",
+      "description": "Hidden Search Widget",
+      "imgSrc": "/assets/Day-4-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-5-blurry-loading",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-5-blurry-loading",
+      "title": "Day 5️",
+      "description": "Blurry Loading",
+      "imgSrc": "/assets/Day-5-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-6-scroll-animation",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-6-scroll-animation",
+      "title": "Day 6",
+      "description": "Scroll Animation",
+      "imgSrc": "/assets/Day-6-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-7-split-landing-page",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-7-split-landing-page",
+      "title": "Day 7",
+      "description": "Split Landing Page",
+      "imgSrc": "/assets/Day-7-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-8-form-input-wave",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-8-form-input-wave",
+      "title": "Day 8",
+      "description": "Form Input Wave",
+      "imgSrc": "/assets/Day-8-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-9-sound-board",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-9-sound-board",
+      "title": "Day 9",
+      "description": "Sound Board",
+      "imgSrc": "/assets/Day-9-screenshot.jpg"
+    }
+  ]
+}
