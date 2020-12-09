@@ -3,7 +3,6 @@ const container = document.querySelector('.container')
 fetch('./projects.json')
   .then((resp) => resp.json())
   .then((data) => {
-    console.log(data.projects)
     data.projects.forEach((project, i) => {
       container.innerHTML += generateAnchorTag(
         project.liveDemo,
