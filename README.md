@@ -44,4 +44,4 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 
 ### Day 10
 
-[Dad Jokes](https://github.com/eligarlo/50Projects50Days/tree/master/Day-10-chuck-norris-facts).
+[Chuck Norris Facts](https://github.com/eligarlo/50Projects50Days/tree/master/Day-10-chuck-norris-facts).
