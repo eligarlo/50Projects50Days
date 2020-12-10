@@ -41,3 +41,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 9
 
 [Sound Board](https://github.com/eligarlo/50Projects50Days/tree/master/Day-9-sound-board).
+
+### Day 10
+
+[Dad Jokes](https://github.com/eligarlo/50Projects50Days/tree/master/Day-10-chuck-norris-facts).

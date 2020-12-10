@@ -62,6 +62,13 @@
       "title": "Day 9",
       "description": "Sound Board",
       "imgSrc": "/assets/Day-9-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-10-chuck-norris-facts",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-10-chuck-norris-facts",
+      "title": "Day 10",
+      "description": "Chuck Norris Facts",
+      "imgSrc": "/assets/Day-10-screenshot.jpg"
     }
   ]
 }
