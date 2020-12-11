@@ -45,3 +45,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 10
 
 [Chuck Norris Facts](https://github.com/eligarlo/50Projects50Days/tree/master/Day-10-chuck-norris-facts).
+
+### Day 11
+
+[Event KeyCodes](https://github.com/eligarlo/50Projects50Days/tree/master/Day-11-event-keycodes).

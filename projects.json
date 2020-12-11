@@ -69,6 +69,13 @@
       "title": "Day 10",
       "description": "Chuck Norris Facts",
       "imgSrc": "/assets/Day-10-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-11-event-keycodes",
+      "repoUrl": "https: //github.com/eligarlo/50Projects50Days/tree/master/Day-11-event-keycodes",
+      "title": "Day 11",
+      "description": "Event KeyCodes",
+      "imgSrc": "/assets/Day-11-screenshot.jpg"
     }
   ]
 }
