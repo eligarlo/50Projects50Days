@@ -76,6 +76,13 @@
       "title": "Day 11",
       "description": "Event KeyCodes",
       "imgSrc": "/assets/Day-11-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-12-faq-collapse",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-12-faq-collapse",
+      "title": "Day 12",
+      "description": "FAQ Collapse",
+      "imgSrc": "/assets/Day-12-screenshot.jpg"
     }
   ]
 }

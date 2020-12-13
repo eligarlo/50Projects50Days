@@ -49,3 +49,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 11
 
 [Event KeyCodes](https://github.com/eligarlo/50Projects50Days/tree/master/Day-11-event-keycodes).
+
+### Day 12
+
+[Event KeyCodes](https://github.com/eligarlo/50Projects50Days/tree/master/Day-12-faq-collapse).
