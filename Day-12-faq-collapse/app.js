@@ -2,8 +2,12 @@ const toggleButtons = document.querySelectorAll('.faq')
 
 toggleButtons.forEach((toggleButton) => {
   toggleButton.addEventListener('click', () => {
-    removeActiveClass()
-    toggleButton.classList.toggle('active')
+    if (toggleButton.classList.contains('active')) {
+      removeActiveClass()
+    } else {
+      removeActiveClass()
+      toggleButton.classList.add('active')
+    }
   })
 })
 
