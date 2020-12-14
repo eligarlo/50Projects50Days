@@ -61,3 +61,7 @@ body {
     display: none;
   }
 }
+
+.back-to-homepage {
+  background-color: #c0c0c0;
+}

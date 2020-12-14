@@ -27,6 +27,7 @@ body {
   font: 1.2rem;
   font-family: inherit;
   cursor: pointer;
+  text-transform: capitalize;
 }
 
 .btn:hover {

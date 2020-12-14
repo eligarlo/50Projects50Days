@@ -10,16 +10,20 @@
     <link rel="mask-icon" href="../favicon//safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
-    <link rel="stylesheet" href="style.css" />
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
-      integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="../shared.css" />
+    <link rel="stylesheet" href="style.css" />
     <title>Rotating Navigation</title>
   </head>
   <body>
+    <a class="back-to-homepage" href="../">
+      <i class="far fa-hand-point-left"></i>
+    </a>
     <div class="container">
       <div class="circle-container">
         <div class="circle">
@@ -55,8 +59,10 @@
     <nav>
       <ul>
         <li>
-          <i class="fas fa-home"></i>
-          Home
+          <a href="../">
+            <i class="fas fa-home"></i>
+            Home
+          </a>
         </li>
         <li>
           <i class="fas fa-user-alt"></i>

@@ -98,3 +98,7 @@ body {
   background-color: var(--line-border-empty);
   cursor: not-allowed;
 }
+
+.back-to-homepage {
+  background-color: #c0c0c0;
+}

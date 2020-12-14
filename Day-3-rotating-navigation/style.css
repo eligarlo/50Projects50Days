@@ -132,3 +132,8 @@ nav ul li + li + li {
   color: #333333;
   line-height: 1.5;
 }
+
+li a {
+  text-decoration: none;
+  color: #ffffff;
+}

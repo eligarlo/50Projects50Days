@@ -1,0 +1,17 @@
+/* Shared style for all projects */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;400&display=swap');
+
+.back-to-homepage {
+  content: '\f0a5';
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+  border-radius: 50px;
+  padding: 10px 15px;
+  font-size: 15px;
+  margin: 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
