@@ -12,8 +12,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
-  overflow: hidden;
+  min-height: 100vh;
   margin: 0;
   padding: 20px;
 }
@@ -72,4 +71,10 @@ h1 {
 
 .btn:focus {
   outline: none;
+}
+
+@media (max-width: 400px) {
+  body {
+    padding-top: 50px;
+  }
 }
