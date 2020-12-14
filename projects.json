@@ -83,6 +83,13 @@
       "title": "Day 12",
       "description": "FAQ Collapse",
       "imgSrc": "/assets/Day-12-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-13-random-choice-picker",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-13-random-choice-picker",
+      "title": "Day 13",
+      "description": "Random Choice Picker",
+      "imgSrc": "/assets/Day-13-screenshot.jpg"
     }
   ]
 }
