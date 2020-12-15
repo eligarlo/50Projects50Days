@@ -90,6 +90,13 @@
       "title": "Day 13",
       "description": "Random Choice Picker",
       "imgSrc": "/assets/Day-13-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-14-animated-navigation",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-14-animated-navigation",
+      "title": "Day 14",
+      "description": "Animated Navigation",
+      "imgSrc": "/assets/Day-14-screenshot.jpg"
     }
   ]
 }

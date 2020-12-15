@@ -57,3 +57,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 13
 
 [Random Choice Picker](https://github.com/eligarlo/50Projects50Days/tree/master/Day-13-random-choice-picker).
+
+### Day 14
+
+[Animated Navigation](https://github.com/eligarlo/50Projects50Days/tree/master/Day-14-animated-navigation).
