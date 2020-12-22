@@ -97,6 +97,13 @@
       "title": "Day 14",
       "description": "Animated Navigation",
       "imgSrc": "/assets/Day-14-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-15-incrementing-counter",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-15-incrementing-counter",
+      "title": "Day 15",
+      "description": "Incrementing Counter",
+      "imgSrc": "/assets/Day-15-screenshot.jpg"
     }
   ]
 }
