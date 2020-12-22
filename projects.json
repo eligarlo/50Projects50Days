@@ -104,6 +104,13 @@
       "title": "Day 15",
       "description": "Incrementing Counter",
       "imgSrc": "/assets/Day-15-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-16-drink-water",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-16-drink-water",
+      "title": "Day 16",
+      "description": "Drink Water",
+      "imgSrc": "/assets/Day-16-screenshot.jpg"
     }
   ]
 }

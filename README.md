@@ -65,3 +65,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 15
 
 [Incrementing Counter](https://github.com/eligarlo/50Projects50Days/tree/master/Day-15-incrementing-counter).
+
+### Day 16
+
+[Drink Water](https://github.com/eligarlo/50Projects50Days/tree/master/Day-16-drink-water).
