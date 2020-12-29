@@ -72,4 +72,4 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 
 ### Day 17
 
-[Drink Water](https://github.com/eligarlo/50Projects50Days/tree/master/Day-17-movie-app).
+[Movie App](https://github.com/eligarlo/50Projects50Days/tree/master/Day-17-movie-app).
