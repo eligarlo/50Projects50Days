@@ -111,6 +111,13 @@
       "title": "Day 16",
       "description": "Drink Water",
       "imgSrc": "/assets/Day-16-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-17-movie-app",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-17-movie-app",
+      "title": "Day 17",
+      "description": "Movie App",
+      "imgSrc": "/assets/Day-17-screenshot.jpg"
     }
   ]
 }
