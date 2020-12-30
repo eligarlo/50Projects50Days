@@ -118,6 +118,13 @@
       "title": "Day 17",
       "description": "Movie App",
       "imgSrc": "/assets/Day-17-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-18-background-slider",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-18-background-slider",
+      "title": "Day 18",
+      "description": "Background Slider",
+      "imgSrc": "/assets/Day-18-screenshot.jpg"
     }
   ]
 }
