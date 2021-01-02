@@ -77,3 +77,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 18
 
 [Background Slider](https://github.com/eligarlo/50Projects50Days/tree/master/Day-18-background-slider).
+
+### Day 19
+
+[Theme Clock](https://github.com/eligarlo/50Projects50Days/tree/master/Day-19-theme-clock).

@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo:wght@300&display=swap');
+
+:root {
+  --primary-color: #000000;
+  --secondary-color: #ffffff;
+}
+
+html.dark {
+  --primary-color: #ffffff;
+  --secondary-color: #333333;
+}
+
+html {
+  transition: 0.5s ease-in;
+}
+
+html.dark {
+  background-color: #111111;
+  color: var(--primary-color);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Heebo', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.toggle {
+  cursor: pointer;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border: 0;
+  border-radius: 4px;
+  padding: 10px 20px;
+  position: absolute;
+  top: 100px;
+  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+  transition: all 0.1s ease-in-out;
+}
+
+html.dark .toggle {
+  box-shadow: 3px 3px 2px rgba(255, 255, 255, 0.5);
+}
+
+.toggle:focus {
+  outline: none;
+}
+
+.toggle:hover {
+  transform: scale(0.99) translateY(-3px);
+  box-shadow: none;
+}
+
+html.dark .toggle:hover {
+  box-shadow: none;
+}
+
+.clock-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.clock {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border: 1px solid var(--primary-color);
+  border-radius: 50%;
+}
+
+.needle {
+  background-color: var(--primary-color);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 65px;
+  width: 3px;
+  transform-origin: bottom center;
+  transition: all 0.5s ease-in;
+}
+
+.needle.hour {
+  transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.needle.minute {
+  transform: translate(-50%, -100%) rotate(0deg);
+  height: 90px;
+}
+
+.needle.second {
+  transform: translate(-50%, -100%) rotate(0deg);
+  height: 90px;
+  background-color: #e74c3c;
+}
+
+.center-point {
+  background-color: #e74c3c;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.center-point::after {
+  content: '';
+  background-color: var(--primary-color);
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.time {
+  font-size: 60px;
+}
+
+.date {
+  color: #aaaaaa;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.date .circle {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 50%;
+  height: 18px;
+  width: 18px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 18px;
+  transition: all 0.5s ease-in;
+  font-size: 12px;
+}
