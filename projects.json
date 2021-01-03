@@ -132,6 +132,13 @@
       "title": "Day 19",
       "description": "Theme Clock",
       "imgSrc": "/assets/Day-19-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-20-button-ripple-effect",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-20-button-ripple-effect",
+      "title": "Day 20",
+      "description": "Button Ripple Effect",
+      "imgSrc": "/assets/Day-20-screenshot.jpg"
     }
   ]
 }
