@@ -17,7 +17,7 @@ fetch('./projects.json')
 function generateAnchorTag(demoUrl, sourceUrl, title, description, imgSrc) {
   return `<div class="card">
             <div class="bg-image" style="
-            background: url('${imgSrc}'); background-size: cover;"></div>
+            background: url('${imgSrc}'); background-size: cover;background-position: center top;"></div>
             <div class="content">
               <h2 class="title">${title}</h2>
               <p class="copy">
