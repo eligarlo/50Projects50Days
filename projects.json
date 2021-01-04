@@ -139,6 +139,13 @@
       "title": "Day 20",
       "description": "Button Ripple Effect",
       "imgSrc": "/assets/Day-20-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-21-drag-and-drop",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-21-drag-and-drop",
+      "title": "Day 21",
+      "description": "Drag & Drop",
+      "imgSrc": "/assets/Day-21-screenshot.jpg"
     }
   ]
 }
