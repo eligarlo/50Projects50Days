@@ -89,3 +89,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 21
 
 [Drag & Drop](https://github.com/eligarlo/50Projects50Days/tree/master/Day-21-drag-and-drop).
+
+### Day 22
+
+[Drawing App](https://github.com/eligarlo/50Projects50Days/tree/master/Day-22-drawing-app).

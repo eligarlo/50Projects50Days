@@ -146,6 +146,13 @@
       "title": "Day 21",
       "description": "Drag & Drop",
       "imgSrc": "/assets/Day-21-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-22-drawing-app",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-22-drawing-app",
+      "title": "Day 22",
+      "description": "Drawing App",
+      "imgSrc": "/assets/Day-22-screenshot.jpg"
     }
   ]
 }
