@@ -97,3 +97,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 23
 
 [Kinetic CSS Loader](https://github.com/eligarlo/50Projects50Days/tree/master/Day-23-kinetic-CSS-loader).
+
+### Day 24
+
+[Content Placeholder](https://github.com/eligarlo/50Projects50Days/tree/master/Day-24-content-placeholder).

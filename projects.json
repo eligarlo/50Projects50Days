@@ -160,6 +160,13 @@
       "title": "Day 23",
       "description": "Kinetic CSS Loader",
       "imgSrc": "/assets/Day-23-screenshot.gif"
+    },
+    {
+      "liveDemo": "Day-24-content-placeholder",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-24-content-placeholder",
+      "title": "Day 24",
+      "description": "Content Placeholder",
+      "imgSrc": "/assets/Day-24-screenshot.jpg"
     }
   ]
 }
