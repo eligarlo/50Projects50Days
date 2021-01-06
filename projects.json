@@ -153,6 +153,13 @@
       "title": "Day 22",
       "description": "Drawing App",
       "imgSrc": "/assets/Day-22-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-23-kinetic-CSS-loader",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-23-kinetic-CSS-loader",
+      "title": "Day 23",
+      "description": "Kinetic CSS Loader",
+      "imgSrc": "/assets/Day-23-screenshot.gif"
     }
   ]
 }

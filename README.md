@@ -93,3 +93,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 22
 
 [Drawing App](https://github.com/eligarlo/50Projects50Days/tree/master/Day-22-drawing-app).
+
+### Day 23
+
+[Kinetic CSS Loader](https://github.com/eligarlo/50Projects50Days/tree/master/Day-23-kinetic-CSS-loader).
