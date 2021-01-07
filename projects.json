@@ -167,6 +167,13 @@
       "title": "Day 24",
       "description": "Content Placeholder",
       "imgSrc": "/assets/Day-24-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-25-sticky-navbar",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-25-sticky-navbar",
+      "title": "Day 25",
+      "description": "Sticky Navbar",
+      "imgSrc": "/assets/Day-25-screenshot.jpg"
     }
   ]
 }

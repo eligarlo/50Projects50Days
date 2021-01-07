@@ -101,3 +101,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 24
 
 [Content Placeholder](https://github.com/eligarlo/50Projects50Days/tree/master/Day-24-content-placeholder).
+
+### Day 25
+
+[Sticky Navbar](https://github.com/eligarlo/50Projects50Days/tree/master/Day-25-sticky-navbar).
