@@ -109,3 +109,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 26
 
 [Double Vertical Slider](https://github.com/eligarlo/50Projects50Days/tree/master/Day-26-double-vertical-slider).
+
+### Day 27
+
+[Toast Notification](https://github.com/eligarlo/50Projects50Days/tree/master/Day-27-toast-notification).

@@ -181,6 +181,13 @@
       "title": "Day 26",
       "description": "Double Vertical Slider",
       "imgSrc": "/assets/Day-26-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-27-toast-notification",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-27-toast-notification",
+      "title": "Day 27",
+      "description": "Toast Notification",
+      "imgSrc": "/assets/Day-27-screenshot.jpg"
     }
   ]
 }
