@@ -174,6 +174,13 @@
       "title": "Day 25",
       "description": "Sticky Navbar",
       "imgSrc": "/assets/Day-25-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-26-double-vertical-slider",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-26-double-vertical-slider",
+      "title": "Day 26",
+      "description": "Double Vertical Slider",
+      "imgSrc": "/assets/Day-26-screenshot.jpg"
     }
   ]
 }

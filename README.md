@@ -105,3 +105,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 25
 
 [Sticky Navbar](https://github.com/eligarlo/50Projects50Days/tree/master/Day-25-sticky-navbar).
+
+### Day 26
+
+[Double Vertical Slider](https://github.com/eligarlo/50Projects50Days/tree/master/Day-26-double-vertical-slider).
