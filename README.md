@@ -113,3 +113,7 @@ Check my progress with the challenge here 👉 [Challenge Website](https://eliga
 ### Day 27
 
 [Toast Notification](https://github.com/eligarlo/50Projects50Days/tree/master/Day-27-toast-notification).
+
+### Day 28
+
+[Toast Notification](https://github.com/eligarlo/50Projects50Days/tree/master/Day-28-github-profiles).

@@ -188,6 +188,13 @@
       "title": "Day 27",
       "description": "Toast Notification",
       "imgSrc": "/assets/Day-27-screenshot.jpg"
+    },
+    {
+      "liveDemo": "Day-28-github-profiles",
+      "repoUrl": "https://github.com/eligarlo/50Projects50Days/tree/master/Day-28-github-profiles",
+      "title": "Day 28",
+      "description": "Github Profiles",
+      "imgSrc": "/assets/Day-28-screenshot.jpg"
     }
   ]
 }
